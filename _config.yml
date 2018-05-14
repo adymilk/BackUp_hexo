@@ -1,0 +1,238 @@
+# Hexo Configuration
+## Docs: https://hexo.io/docs/configuration.html
+## Source: https://github.com/hexojs/hexo/
+
+# Site
+language: zh-cn
+timezone:
+
+
+# Site
+# 博客的标题
+title: 三步枫的博客
+
+# banner显示的子标题
+subtitle: 三步枫的博客
+
+# banner显示的简短介绍
+subtitle_desc: 喜欢一本正经胡说八道的博主
+
+# seo关键字
+keywords: minfive, minfive blog, 前端博客, 前端, 程序员, 前端开发, 全栈开发, node.js, javascript
+
+# 博客介绍（同时用于seo）
+description: 三步枫的博客的所有博文都是博主个人的学习和心得笔记
+
+# 个人介绍
+introduction: 撸代码，写博客。撩妹子！--三步枫（James）
+
+# 博客的favicon图标，支持本地及在线两种方式，本地请将图标放置于 themes/hexo-theme-skapp/source/img 目录下
+favicon_ico: http://oo12ugek5.bkt.clouddn.com/blog/images/favicon.ico
+
+# 博客的左上角logo图标，支持本地及在线两种方式
+logo: http://oe3vwrk94.bkt.clouddn.com/20180514-2
+
+# 头像/二维码（用于显示在底部）二选一
+#avatar: http://oo12ugek5.bkt.clouddn.com/images/qrcode.png
+qrcode: http://adymilk.cn/dist/images/qr.jpg
+
+# 文章的默认封面
+default_cover: http://oo12ugek5.bkt.clouddn.com/images/default_cover.png
+
+# header 的背景图
+header_cover: http://oo12ugek5.bkt.clouddn.com/blog/images/banner.jpeg
+
+# 404 页面的背景图
+error_page_bg: http://oo12ugek5.bkt.clouddn.com/blog/images/dogs.jpg
+
+# 页面加载loading图标
+loader_img: http://oo12ugek5.bkt.clouddn.com/blog/images/loader.gif
+
+# 站长信息
+author:
+  name: minfive
+  link: https://github.com/Mrminfive
+# 用于页面 footer 的站长信息
+about:
+  info: 本站是基于 Hexo 搭建的静态资源博客，主要用于分享日常学习、生活及工作的一些心得总结，欢迎点击右下角订阅 rss。
+  address: Guangzhou, Guangdong Province, China
+  email: chenxiaowu1994@outlook.com
+
+
+
+menu:
+  home: / 
+  archive: /archives
+  about: /about
+  works: /works
+  music: /music
+
+
+# Feed Atom
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+
+# Sitemap
+sitemap:
+  path: sitemap.xml
+
+
+
+# URL
+## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
+url: https://blog.adymilk.cn
+root: /
+permalink: :year/:month/:day/:title/
+permalink_defaults:
+
+
+
+
+
+# Directory
+source_dir: source
+public_dir: public
+tag_dir: tags
+archive_dir: archives
+category_dir: categories
+code_dir: downloads/code
+i18n_dir: :lang
+skip_render:
+
+# Writing
+new_post_name: :title.md # File name of new posts
+default_layout: post
+titlecase: false # Transform title into titlecase
+external_link: true # Open external links in new tab
+filename_case: 0
+render_drafts: false
+post_asset_folder: false
+relative_link: false
+future: true
+highlight:
+  enable: true
+  line_number: true
+  auto_detect: false
+  tab_replace:
+  
+# Home page setting
+# path: Root path for your blogs index page. (default = '')
+# per_page: Posts displayed per page. (0 = disable pagination)
+# order_by: Posts order. (Order by date descending by default)
+index_generator:
+  path: ''
+  per_page: 18
+  order_by: -date
+  
+# Category & Tag
+default_category: uncategorized
+category_map:
+tag_map:
+
+# Date / Time format
+## Hexo uses Moment.js to parse and display date
+## You can customize the date format as defined in
+## http://momentjs.com/docs/#/displaying/format/
+date_format: YYYY-MM-DD
+time_format: HH:mm:ss
+
+# Pagination
+## Set per_page to 0 to disable pagination
+per_page: 18
+pagination_dir: page
+
+# Extensions
+## Plugins: https://hexo.io/plugins/
+## Themes: https://hexo.io/themes/
+#theme: landscape
+theme: hexo-theme-skapp
+
+
+# Deployment
+## Docs: http://hexo.io/docs/deployment.html
+deploy:
+  type: git
+  repo:
+    # github: git@github.com:adymilk/adymilk.github.io.git,master
+    coding: git@git.coding.net:xfhelp/xfhelp.git,master
+  branch: master
+
+
+
+# Sass
+node_sass:
+  outputStyle: nested
+  precision: 5
+  sourceComments: false
+
+# Autoprefixer
+autoprefixer:
+  exclude:
+    - '*.min.css'
+  browsers:
+    - 'last 2 versions'
+
+# Lunr
+lunr:
+  field: all
+  fulltext: false
+  path: assets/lunr/
+
+# filter_cleanup
+hfc_useref:
+  enable: true
+  concat: true
+
+hfc_html:
+  enable: true
+  exclude:
+
+hfc_css:
+  enable: true
+  exclude: 
+    - '*.min.css'
+
+hfc_js:
+  enable: true
+  mangle: true
+  exclude: 
+    - '*.min.js'
+
+hfc_img:
+  enable: false
+  interlaced: false
+  multipass: false
+  optimizationLevel: 2
+  pngquant: false
+  progressive: false
+
+hfc_favicons:
+  enable: false
+  src: img/blog-logo.png
+  target: img/
+  icons:
+    android: true
+    appleIcon: true
+    appleStartup: false
+    coast: false
+    favicons: true
+    firefox: false
+    opengraph: false
+    windows: true
+    yandex: false
+
+
+
+# Busuanzi
+busuanzi: true
+
+
+# 评论框
+Valine:
+  appId: rgBgYoslSGOswjaHqVArAnPp-gzGzoHsz
+  appKey: zG3mb3kGasYAEy7begNCbRED
+  notify: false #邮件提醒
+  verify: false #验证码
+  avatar: '' #头像（备选：默认mm，identicon，monsterid，wavatar，retro，hide）
