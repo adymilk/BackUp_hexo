@@ -13,7 +13,7 @@ cover: http://oe3vwrk94.bkt.clouddn.com/20180515-1.jpg
 <script src="https://cdn.bootcss.com/jquery_lazyload/1.9.7/jquery.lazyload.min.js"></script>
 	
 <script>
-	$('nav').css({'background-color':'#3f51b5','width':'100%'});
+	$('nav').css({'background-color':'#3f51b5','height':'unset','width':'100%'});
 	$('.page__nav').css({'width':'auto','box-shadow':'unset'});
 	$(function() {
       $("img.lazy").lazyload({effect: "fadeIn"});
