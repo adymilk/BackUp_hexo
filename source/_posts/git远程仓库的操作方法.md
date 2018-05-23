@@ -4,7 +4,7 @@ date: 2017-08-08 11:43:51
 tags:
 - git
 - github
-categories: web
+categories: 代码笔记
 ---
 
 ### Quick setup — if you’ve done this kind of thing before

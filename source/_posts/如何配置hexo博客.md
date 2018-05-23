@@ -1,7 +1,7 @@
 ---
 title: 如何配置hexo博客
 date: 2016-09-24 01:48:20
-categories: 杂谈
+categories: 代码笔记
 ---
 ![](http://ww4.sinaimg.cn/mw690/00674Nvvgw1f841pk4fltj31gh0p4455.jpg)
 <dt>新手可能会觉得这很难，不过别怕！咱有中文文档啊！文档讲的很细啦，小白轻松学习，这里我就不单独写啦。有问题请留言，我来帮你搞定！</dt>

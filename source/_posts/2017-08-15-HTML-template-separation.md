@@ -4,7 +4,7 @@ date: 2017-08-15 15:08:50
 tags:
 - template
 - 模板分离
-categories: web
+categories: 代码笔记
 ---
 > 网站模板的设计，一般的，我们做网站有一些通用的部分，比如 导航，底部，访问统计代码等等.
 比如 `header.html`, `footer.html`, `content.html`.....其实我们可以写一个 `base.html` 来包含这些通用文件。ok,让我们一起学习如何实现的吧。

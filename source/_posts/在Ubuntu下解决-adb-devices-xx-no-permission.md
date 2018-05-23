@@ -4,7 +4,7 @@ date: 2017-06-26 18:11:44
 tags:
 - ubuntu
 - adb
-categories: Linux
+categories: 代码笔记
 ---
 
 原因分析：因为ubuntu这样的系统都是默认以非root身份在运行的，要使用usb调试，需要sudo支持。

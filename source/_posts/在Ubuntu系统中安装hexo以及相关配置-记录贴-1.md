@@ -2,7 +2,7 @@
 title: 在Ubuntu系统中安装hexo以及相关配置(记录贴)
 date: 2017-03-29 00:37:04
 tags: hexo
-categories: Linux
+categories: 代码笔记
 ---
 ### hexo 简介
 A fast, simple & powerful blog framework

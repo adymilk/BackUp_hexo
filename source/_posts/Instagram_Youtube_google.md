@@ -5,6 +5,7 @@ tags:
 - vpn 
 - Instagram
 - Facebook
+categories: 生活笔记
 ---
 ### 国外流行的图片社交网站
 ![Instagram](http://oe3vwrk94.bkt.clouddn.com/Instagram.png)

@@ -2,7 +2,7 @@
 title: WEB前端面试题预热
 date: 2016-10-15 01:32:26
 tags: 面试
-categories: web
+categories: 代码笔记
 ---
 ![](http://obl1kak28.bkt.clouddn.com/shenghuo.jpg)
 ### 问题分析

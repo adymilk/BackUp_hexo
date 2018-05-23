@@ -1,13 +1,19 @@
 ---
 title: 完美的 Ubuntu16.04 优化方案
-date: 2017-08-04 20:27:40
+date: 2017-10-19 20:27:40
 tags:
 - ubuntu
 - 开源
-categories: 系统
+categories: 代码笔记
+
+cover: http://oe3vwrk94.bkt.clouddn.com/ubuntu-desktop.png
+
+author:
+	nick: 王恒
+
+subtitle: Ubuntu 桌面操作系统近年来越来越火了。目前版本已经发布到了 18，日常使用基本没有问题了。
 ---
 
-![美化后的 Ubuntu 桌面截图](http://oe3vwrk94.bkt.clouddn.com/ubuntu-desktop.png)
 
 Ubuntu 到底怎么样？来，听听人家官网的妹子是怎样介绍的。
 

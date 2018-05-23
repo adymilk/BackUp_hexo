@@ -2,7 +2,7 @@
 title: JetBrains系列产品破解教程
 date: 2016-11-21 16:55:19
 tags: JetBrains
-categories: 杂谈
+categories: 代码笔记
 ---
 ![](http://p1.bpimg.com/567571/a31839590e1c4035.png)
 
