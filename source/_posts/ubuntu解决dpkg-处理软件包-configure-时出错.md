@@ -3,7 +3,7 @@ title: 'ubuntu解决dpkg: 处理软件包 **** (--configure)时出错'
 date: 2017-07-07 22:39:48
 tags:
 - python
-categories: Linux
+categories: 代码笔记
 ---
 
 原因：之前ubuntu误卸载了自带的python,导致这个问题、

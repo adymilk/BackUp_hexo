@@ -2,7 +2,7 @@
 title: 解决Ubuntu下Sublime Text 3无法输入中文
 date: 2017-07-29 19:20:03
 tags: Ubuntu
-categories: Linux
+categories: 代码笔记
 ---
 ### 故障产生原因
 > Ubuntu(Debian) 系统下的无法输入中文(CJK 字符)输入法的问题！官方并没有给出Sublime-Text的修复。

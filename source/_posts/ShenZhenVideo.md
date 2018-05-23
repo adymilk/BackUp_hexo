@@ -5,6 +5,8 @@ tags:
 - 旅行
 - 深圳
 - 华强北
+
+categories: 生活笔记
 ---
 ### 开篇
 ![Instagram](http://oe3vwrk94.bkt.clouddn.com/traval-in-shenzheng.png)

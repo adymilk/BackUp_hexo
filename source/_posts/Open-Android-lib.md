@@ -5,7 +5,7 @@ tags:
 - Android
 - 开源
 - github
-categories: Android
+categories: 代码笔记
 ---
 awesome-github-android-ui 是由[OpenDigg](http://www.opendigg.com/)整理并维护的安卓UI相关开源项目库集合。我们会定期同步[OpenDigg](http://www.opendigg.com/tags/android-ui)上的项目到这里，也欢迎各位[提交项目](https://github.com/opendigg/opending-share-projects)给我们。 
 

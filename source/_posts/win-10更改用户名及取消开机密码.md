@@ -2,7 +2,7 @@
 title: win 10更改用户名及取消开机密码
 date: 2016-10-19 22:23:31
 tags: 系统
-categories: 系统
+categories: 代码笔记
 ---
 本教程内容如下
 1、更改win 10登陆用户名

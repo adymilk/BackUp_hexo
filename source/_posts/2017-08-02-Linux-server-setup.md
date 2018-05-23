@@ -4,7 +4,7 @@ date: 2017-08-02 12:40:48
 tags:
 - Linux
 - server
-categories: Linux
+categories: 代码笔记
 ---
 开发网站的时候，常常需要自己配置Linux服务器。
 

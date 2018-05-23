@@ -3,7 +3,7 @@ title: 解决安装curl依赖错误
 date: 2017-07-19 18:19:14
 tags:
 - curl
-categories: Linux
+categories: 代码笔记
 ---
 ### 错误原因
 ```

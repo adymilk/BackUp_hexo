@@ -4,7 +4,7 @@ date: 2017-08-04 00:52:45
 tags:
 - git
 - 翻译
-categories: web
+categories: 代码笔记
 ---
 # Git 图解
 

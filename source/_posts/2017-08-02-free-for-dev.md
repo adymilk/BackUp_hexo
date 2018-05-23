@@ -2,7 +2,7 @@
 title: 免费的互联网开发者服务一览
 date: 2017-08-02 12:47:42
 tags: web
-categories: web
+categories: 代码笔记
 ---
 # 免费的互联网开发者服务一览
 

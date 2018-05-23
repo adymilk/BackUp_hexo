@@ -2,6 +2,11 @@
 title: Android-Studio 多渠道打包
 date: 2017-10-06 15:13:55
 tags: Android
+categories: 代码笔记
+author:
+    nick: 王恒
+cover: http://oe3vwrk94.bkt.clouddn.com/20180520-1.jpg
+subtitle: 安卓快速实现多渠道打包的方法。
 ---
 
 # 1、图形界面打包

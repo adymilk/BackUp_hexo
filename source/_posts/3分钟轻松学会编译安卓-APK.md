@@ -4,7 +4,7 @@ date: 2017-07-30 12:08:15
 tags: 
 - android
 - 开源
-categories: Linux
+categories: 代码笔记
 ---
 ![](http://oe3vwrk94.bkt.clouddn.com/https://developer.coolapk.com.png)
 

@@ -4,6 +4,7 @@ date: 2017-04-25 16:54:57
 tags:
 - IDE
 - atom
+categories: 代码笔记
 ---
 ### Atom 更为先进的文本代码编辑器
 ![atom](http://oe3vwrk94.bkt.clouddn.com/aotm.png)

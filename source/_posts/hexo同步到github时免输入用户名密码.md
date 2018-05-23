@@ -4,7 +4,7 @@ date: 2016-10-01 23:23:31
 tags: 
 - hexo
 - 博客
-categories: 杂谈
+categories: 代码笔记
 ---
 ![](http://p1.bqimg.com/567571/6c03834cfd169383.png)
 hexo 每次同步代码到github都需要手动输入用户名和密码确实挺烦人的，下面给出解决办法......

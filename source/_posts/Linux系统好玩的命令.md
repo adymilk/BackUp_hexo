@@ -5,6 +5,7 @@ tags:
 - Linux
 - 黑客
 - 命令行
+categories: 代码笔记
 ---
 ### 打开Linux 命令行开启装逼模式
 ![](http://oe3vwrk94.bkt.clouddn.com/linux-terimal.png)

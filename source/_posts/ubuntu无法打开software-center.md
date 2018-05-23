@@ -4,6 +4,7 @@ date: 2017-07-08 16:20:27
 tags:
 - ubuntu
 - software-center
+categories: 代码笔记
 ---
 ### 1.1 报错
 

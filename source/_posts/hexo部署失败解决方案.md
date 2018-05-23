@@ -1,7 +1,7 @@
 ---
 title: hexo部署失败解决方案
 date: 2016-09-23 15:48:20
-categories: web
+categories: 代码笔记
 ---
 ![](http://www.bkjia.com/uploads/allimg/150420/16320J252-4.png)
 <dt>hexo部署失败 ERROR Deployer not found: git,你是不是也遇到了这个问题呢？这篇文章可以帮助你解决</dt>

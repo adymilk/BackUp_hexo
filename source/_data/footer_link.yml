@@ -1,9 +1,33 @@
 friend_links:
-  - name: hexo-theme-skapp
-    desc: hexo-theme-skapp
-    link: https://github.com/Mrminfive/hexo-theme-skapp
+  - name: 枫电科技官网
+    desc: 枫电科技官网
+    link: http://m.adymilk.cn
+    
+  - name: 上海蓝息实业专业货架生产厂商
+    desc: 中国仓储设备金牌服务供应商
+    link: http://lxsky1886.cn/
 
+  - name: 编码猿
+    desc: 人送 刘叫兽
+    link: http://geekhelp.cn/
+
+  - name: 前端大神
+    desc: hexo-theme-skapp 作者
+    link: http://blog.minfive.com/  
+  
+  - name: 凹凸实验室
+    desc: 京东技术团队
+    link: https://aotu.io    
+    
 build_tools:
   - name: Hexo
     desc: Blog Framework
     link: https://hexo.io/
+
+  - name: Valine
+    desc: 简洁且高效的无后端评论系统
+    link: https://valine.js.org/
+
+  - name: BootCDN
+    desc: 稳定、快速、免费的前端开源项目 CDN 加速服务
+    link: http://www.bootcdn.cn/
