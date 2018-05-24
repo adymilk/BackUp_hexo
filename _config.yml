@@ -235,4 +235,9 @@ Valine:
   appKey: zG3mb3kGasYAEy7begNCbRED
   notify: false #邮件提醒
   verify: false #验证码
-avatar: '' #头像（备选：默认mm，identicon，monsterid，wavatar，retro，hide）
+  avatar: '' #头像（备选：默认mm，identicon，monsterid，wavatar，retro，hide）
+
+# 打赏
+reward:
+  alipay: http://oe3vwrk94.bkt.clouddn.com/20180519-2.jpg
+  weixin: http://oe3vwrk94.bkt.clouddn.com/20180519-1.png
