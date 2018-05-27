@@ -1,11 +1,13 @@
 ---
 title: nodejs编写蜘蛛爬虫程序
-date: 2017-04-26 17:49:52
+date: 2018-05-26 17:49:52
 tags:
 - node.js
 - 蜘蛛爬虫
-top: true
+author:
+    nick: James
 categories: 代码笔记
+cover: https://img.aotu.io/chuyik/node_debug_in_production_cover.png
 ---
 基于node的超简单蜘蛛爬行程序,一秒钟抓取200张图片。妥妥的。代码总共40行，史上最简单的爬虫程序！
 

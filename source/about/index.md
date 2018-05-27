@@ -1,5 +1,5 @@
 ---
-title: 关于
+title: 关于|about me
 date: 2018-05-14 15:41:00
 type: about
 layout: about
@@ -35,3 +35,6 @@ layout: about
 | 2017 年 1 月 8日  | 网站上线了评论功能，访客可以直接通过第三方账号登录评论。RRS订阅功能 | [查看](https://blog.adymilk.cn/) |
 | 2018 年 05 月 12 日  | 网站整体网格大改版，由原先的简约紧凑的风格改为视觉性更强，功能更加丰富的展现方式博客后期还会融入更多简单好玩的元素。敬请期待 | [查看](http://oe3vwrk94.bkt.clouddn.com/20180517-6.jpg) |
 
+
+## 其他
+> [申请友情连接点击这里](https://blog.adymilk.cn/)
