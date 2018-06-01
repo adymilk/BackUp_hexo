@@ -17,7 +17,11 @@ friend_links:
   
   - name: 凹凸实验室
     desc: 京东技术团队
-    link: https://aotu.io    
+    link: https://aotu.io
+
+  - name: 淘宝 FED
+    desc: 淘宝技术团队
+    link: http://taobaofed.org/        
     
 build_tools:
   - name: Hexo
