@@ -7,7 +7,7 @@ layout: about
 
 > 科技创造未来，努力成为一个全面的选手。点击查看我的 [在线简历](https://blog.adymilk.cn)
 
-## Hello World!
+# Hello World!
 ```js
 {
   "Name": "王恒（James）",

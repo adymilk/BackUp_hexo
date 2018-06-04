@@ -3,24 +3,12 @@ title: 我的影集
 date: 2018-05-14 16:02:41
 type: photograph
 layout: photograph
-author: 
+author:
 	nick: 王恒
-cover: http://oe3vwrk94.bkt.clouddn.com/20180515-1.jpg
 ---
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.1/css/materialize.min.css">
 
-<script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
-<script src="https://cdn.bootcss.com/jquery_lazyload/1.9.7/jquery.lazyload.min.js"></script>
-	
-<script>
-	$('nav').css({'height':'unset','width':'100%'});
-	$('.page__nav').css({'width':'auto','box-shadow':'unset'});
-	$(function() {
-      $("img.lazy").lazyload({effect: "fadeIn"});
-  });
-</script>
 
- > 平时业余的一些摄影作品，放到博客上面和大家一起分享！
+> 平时业余的一些摄影作品，放到博客上面和大家一起分享！
 
 <div class="row">
 <div class="col s12 m4"><div class="card"><div class="card-image"><img class="lazy" data-original="http://oe3vwrk94.bkt.clouddn.com/ShangHai-Technology-Museum.jpg"><span class="card-title">上海科技馆</span></div></div></div><div class="col s12 m4"><div class="card"><div class="card-image"><img class="lazy" data-original="http://static.oneplus.cn/data/attachment/forum/201704/16/234237liiyamuzda4407ii.jpg.w_768.jpg"><span class="card-title">深圳大梅沙</span></div></div></div><div class="col s12 m4"><div class="card"><div class="card-image"><img class="lazy" data-original="http://oe3vwrk94.bkt.clouddn.com/gallery-02.jpg"><span class="card-title">上海中山公园</span></div></div></div></div>
