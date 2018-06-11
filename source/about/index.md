@@ -5,7 +5,7 @@ type: about
 layout: about
 ---
 
-> 科技创造未来，努力成为一个全面的选手。点击查看我的 [在线简历](https://blog.adymilk.cn)
+> 科技创造未来，努力成为一个全面的选手。点击查看我的 [在线简历](http://www.500d.me/cvresume/0593465172/)
 
 # Hello World!
 ```js
@@ -17,7 +17,6 @@ layout: about
   "School": "AnHui University",
   "Contacts": {
     "Email": "924114103@qq.com",
-    "Telegram": "@kevinsfork",
     "Weibo": "@adymilk",
     "Github": "https://github.com/adymilk",
     "QQ": "924114103"
@@ -37,4 +36,4 @@ layout: about
 
 
 ## 其他
-> [申请友情连接点击这里](https://blog.adymilk.cn/)
+> [申请友情连接点击这里](http://wpa.qq.com/msgrd?v=3&uin=924114103&site=qq&menu=yes)
