@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "dplayer": "^1.22.2",
-    "hexo": "^3.2.0",
+    "hexo": "^3.7.1",
     "hexo-autoprefixer": "^1.0.0",
     "hexo-baidu-url-submit": "^0.0.5",
     "hexo-deployer-git": "^0.3.1",
@@ -27,7 +27,7 @@
     "hexo-server": "^0.2.0",
     "hexo-tag-dplayer": "^0.3.3",
     "lunr": "mamboer/lunr.js",
-    "moment": "^2.22.1",
+    "moment": "^2.22.2",
     "node-sass": "^4.9.0",
     "object-assign": "^4.1.1",
     "valine": "^1.1.9-beta9"

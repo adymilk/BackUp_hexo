@@ -24,7 +24,7 @@ friend_links:
     link: http://taobaofed.org/
 
   - name: Dinphy - 简乐 
-  - desc: Dinphy - 简乐 | 生活不易,快乐就好
+    desc: Dinphy - 简乐 | 生活不易,快乐就好
     link: http://www.dinphy.wang/
     
 build_tools:
