@@ -5,7 +5,7 @@ your can [click here](https://blog.adymilk.cn) to visit my blog website onLine.
 ## How To Use?
 
 ** Step One: run environment require**
-- nodejs
+- nodejs （must be v7.10.1）
 - git
 - hexo
 
