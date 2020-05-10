@@ -6,7 +6,7 @@ categories: 代码笔记
 ---
 ### hexo 简介
 A fast, simple & powerful blog framework
-![hexo](http://oe3vwrk94.bkt.clouddn.com/hexo.png)
+![hexo](/img/hexo.png)
 利用hexo可以快速的帮你搭建一个网站，通过把网站编译过的代码部署到个github page 和coding page免费提供的空间服务器上面。我们的网站就可以实现真正的免费上线了！而且还支持自定义域名和Markdown写作。通过免费搭建这样一个网站，可以记录个人的学习过程亦或展示一些你认为比较好的作品和大家一起学习分享！
 <!-- more -->
 

@@ -5,7 +5,7 @@ tags: Android
 categories: 代码笔记
 author:
     nick: 王恒
-cover: http://oe3vwrk94.bkt.clouddn.com/20180520-1.jpg
+cover: /img/20180520-1.jpg
 subtitle: 安卓快速实现多渠道打包的方法。
 ---
 

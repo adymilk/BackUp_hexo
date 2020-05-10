@@ -2,10 +2,6 @@ friend_links:
   - name: 枫电科技官网
     desc: 枫电科技官网
     link: http://m.adymilk.cn
-    
-  - name: 上海蓝息实业专业货架生产厂商
-    desc: 中国仓储设备金牌服务供应商
-    link: http://lxsky1886.cn/
 
   - name: 编码猿
     desc: 人送 刘叫兽
@@ -26,6 +22,10 @@ friend_links:
   - name: Dinphy - 简乐 
     desc: Dinphy - 简乐 | 生活不易,快乐就好
     link: http://www.dinphy.wang/
+
+  - name: 咬定面包不放松 
+    desc: 咬定面包不放松
+    link: https://blog.nash-su.cn/
     
 build_tools:
   - name: Hexo

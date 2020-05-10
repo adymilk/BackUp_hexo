@@ -7,7 +7,7 @@ tags:
 author:
     nick: James
 categories: 代码笔记
-cover: https://img.aotu.io/chuyik/node_debug_in_production_cover.png
+cover: /img/20191116-1.jpg
 ---
 基于node的超简单蜘蛛爬行程序,一秒钟抓取200张图片。妥妥的。代码总共40行，史上最简单的爬虫程序！
 

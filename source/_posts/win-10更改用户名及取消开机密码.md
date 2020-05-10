@@ -17,22 +17,22 @@ categories: 代码笔记
 4、选择您须要更改的名称即可
 如下图
 
-![](http://oe3vwrk94.bkt.clouddn.com/win_group.png)
+![](/img/win_group.png)
 
 ### 取消开机密码
 - 操作步骤
 1、win+R 键盘打开运行窗口，如下图
 2、输入 `netplwiz`
 
-![](http://oe3vwrk94.bkt.clouddn.com/netplwiz.png)
+![](/img/netplwiz.png)
 
 3、取消如图勾选
 
-![](http://oe3vwrk94.bkt.clouddn.com/win10_1.png)
+![](/img/win10_1.png)
 
 4、点击应用，此时会弹出一个窗口。你输入原开机密码，确认输入！
 
-![](http://oe3vwrk94.bkt.clouddn.com/win10_2.png)
+![](/img/win10_2.png)
 
 5、点击确定
 

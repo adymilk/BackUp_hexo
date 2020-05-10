@@ -8,7 +8,7 @@ tags:
 categories: 代码笔记
 ---
 ### 打开Linux 命令行开启装逼模式
-![](http://oe3vwrk94.bkt.clouddn.com/linux-terimal.png)
+![](/img/linux-terimal.png)
 Linux，这个号称“全地球人的操作系统”，以其免费、安全、稳定等优点获得人们的广泛好评！下面yarn就列出几点linux相对于Windows的优势。合法升级到最新版本却不需要花一分钱。(windows或者apple合法升级是需要掏钱的，windows与Linux比较差别大吧！)同一个硬件平台上最新的操作系统却比老的更快。(如果在一硬件平台上运行xp比较卡的话，那运行windows7是不可能的，而linux却相反，Linux与windows相比大大不同)
 <!-- more -->
 
@@ -40,7 +40,7 @@ Linux，这个号称“全地球人的操作系统”，以其免费、安全、
 ### 无处不在的hello Linux
 好了，废话说了一大堆。那既然linux优点这么多。那咱么就来玩玩呗。瞬间开启装逼模式**Ctrl+Alt+T** 打开 Linux 终端（俗称命令行）老规矩，先要给咱们的老大哥hello world拜个码头。
 
-![hello world](http://oe3vwrk94.bkt.clouddn.com/hello-linux.png)
+![hello world](/img/hello-linux.png)
 
 和之前的php输出方式一样啊，好的。咱们在继续学！
 ### 常用命令

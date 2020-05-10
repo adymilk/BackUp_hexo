@@ -6,7 +6,7 @@ tags:
 - 开源
 categories: 代码笔记
 ---
-![](http://oe3vwrk94.bkt.clouddn.com/https://developer.coolapk.com.png)
+![](/img/https://developer.coolapk.com.png)
 
 简单说下，如何快速利用别人的开源项目快速编译一个apk。通过阅读优秀的开源项目源码，学习优秀的设计思路。提高自己的编码能力！编程高手的必经之路-----从学会阅读别人的代码开始！
 好了，让我们马上开始把！
@@ -103,9 +103,9 @@ debug是debug用的签名文件
 
 #### 2. 发布 APK 到酷安
 
-![](http://oe3vwrk94.bkt.clouddn.com/https://developer.coolapk.com.png)
+![](/img/https://developer.coolapk.com.png)
 
 
 ### 最终 app 效果图
 
-![](http://oe3vwrk94.bkt.clouddn.com/meizi.jpg)
+![](/img/meizi.jpg)

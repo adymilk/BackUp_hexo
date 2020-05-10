@@ -6,7 +6,7 @@ layout: works
 author:
 	nick: 王恒
 
-cover: http://oe3vwrk94.bkt.clouddn.com/20180515-7.jpg
+cover: http://img.0551shengteng.cn/20180515-7.jpg
 ---
 
 

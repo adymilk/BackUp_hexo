@@ -8,7 +8,7 @@ tags:
 categories: 生活笔记
 ---
 ### 国外流行的图片社交网站
-![Instagram](http://oe3vwrk94.bkt.clouddn.com/Instagram.png)
+![Instagram](/img/Instagram.png)
 前段时间有朋友看到我博客上面有facebook和Instagram的链接就跑来问我是如何登陆上去的。由于国内互联网政策的xx原因，这些网站在大陆都访问不了。然而面对这么好玩的东西又怎么能阻挡的了我们向往自由的步伐呢！万一还能撩个妹，约个会，偶个遇，约个X啥的呢。。。哈哈，我是说万一。
 好了，以上言论纯属一本正经的胡说八道。下面我要开始发大宝了哈!小心我的大刀早已饥渴难耐了,hhhhh
 
@@ -17,7 +17,7 @@ categories: 生活笔记
 ### 降龙十八掌 第一式
 - 安装翻墙软件
 
-安卓下载：[SuperVpn](http://oe3vwrk94.bkt.clouddn.com/Super%20VPN%20-%20Best%20Free%20Proxy_3.5_apk-dl.com.apk) 
+安卓下载：[SuperVpn](/img/Super%20VPN%20-%20Best%20Free%20Proxy_3.5_apk-dl.com.apk) 
 
 windows下载：[Lantern](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-beta.exe)
 
@@ -43,7 +43,7 @@ ubuntu下载：[ubuntu](https://raw.githubusercontent.com/getlantern/lantern-bin
 
 说道 **youtube** 不得不说挺牛逼的。最为世界上最大的视频网站，自从被谷歌收购以后越干越大！(有些大陆禁片你应该有学会分辨好坏的能力，毕竟这是一家美国公司的视频网站。国内屏蔽必定有他的道理，你知道国人是比较有围观效应的。随便几个人年轻人被洗脑后都能去`起义`，可怕！)先抛开谷歌对信息管制的政策不谈，他的技术确实牛逼。如果国内允许访问**youtube**的话，那么像爱奇艺、土豆、腾讯视频、优酷视频之类的视频网站可能就要面临转型的危险了！国内视频网站的收益方式主要靠在视频前加播广告，最长广告时长达120秒。youtube视频播放前加播的广告最长5秒，5秒后可点击跳过。大多数视频没有广告。国内Bilibili这方面做的不错！而且广告的质量比较高，基本是一些科技，公益类的广告。相比国内网站的一个120秒的奥妙洗衣液来说，youtube的这种广告更让人易于接受！
 
-![](http://oe3vwrk94.bkt.clouddn.com/youtube.png)
+![](/img/youtube.png)
 
 谷歌回归是一个国策问题，对于我们用户来说选择享受到最顶尖的技术和服务是我的权利。对于一个国家的国情和互联网经济来说，这个是需要在必要的时候采取宏观调控的。想象一下如果谷歌明天进入中国，那么国产互联网企业必定会死伤一大片。但从另一个角度来说，谷歌回归是大势所趋，这个只是时间问题。所以留下的时间里也让国内互联网企业感到危机感，迫使他们改革创新，做出更好的服务或开发出更好的产品来留住用户。俗话说的好：**生于忧患,死于安乐**  
 

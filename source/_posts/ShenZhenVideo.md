@@ -9,7 +9,7 @@ tags:
 categories: 生活笔记
 ---
 ### 开篇
-![Instagram](http://oe3vwrk94.bkt.clouddn.com/traval-in-shenzheng.png)
+![Instagram](/img/traval-in-shenzheng.png)
 从上海出发，前往深圳。凌晨1点半抵达深圳宝安国际机场。这是我第一次来南方的城市，激动中带有些许期待!!<br>计划旅行攻略中的目的地有：美丽的海边**大梅沙度假村**、中国电子第一街**华强北**、改革开放总设计师邓小平画像**荔枝公园**以及深圳的地表建筑**帝王大厦**都是一些非常有意义和象征性的地方。最后没想到还有意外收获....
 <!-- more -->
 
@@ -18,7 +18,7 @@ categories: 生活笔记
 {% dplayer "url=http://0551shengteng.cn/ueditor/php/upload/video/20170624/2017-From-ShangHai-To-ShenZhen.mp4" "addition=https://dplayer.daoapp.io/bilibili?aid=4157142" "api=http://dplayer.daoapp.io" "pic=http://home.ustc.edu.cn/~mmmwhy/GEM.jpg" "id=9E2E3368B56CDBB4" "loop=yes" "theme=#FADFA3" "autoplay=false" "token=tokendemo" %}
 
 
-<!-- <video src="http://oe3vwrk94.bkt.clouddn.com/ShenZhen-video.mp4" controls="controls" autoplay="true" width="100%"></video> -->
+<!-- <video src="/img/ShenZhen-video.mp4" controls="controls" autoplay="true" width="100%"></video> -->
 
 相对于上一次普陀山的海，这一次大梅沙的海才算是真正意义上的大海了。是我想象中的那种蔚蓝色的大海，无边无际。海水很咸、很凉、很舒服！海边风很大，不过深圳的温度高啊，一点也不会感觉到冷。凉快的很！我坐在海边的石头上，撩着海水。捧一些在手心中，海水清澈透明到可以看到手心的纹路。海水还很软，很滑。稍不留神就会从你的指尖流走。此时我真想脱掉衣服，跳进去玩个痛快！
 
@@ -39,11 +39,11 @@ categories: 生活笔记
 
 擅用美团，就算在机场你也可以放心的想吃就吃！
 
-![浦东国际机场-真功夫：15￥](http://oe3vwrk94.bkt.clouddn.com/%E6%B5%A6%E4%B8%9C%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA-%E7%9C%9F%E5%8A%9F%E5%A4%AB.jpg)
+![浦东国际机场-真功夫：15￥](/img/%E6%B5%A6%E4%B8%9C%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA-%E7%9C%9F%E5%8A%9F%E5%A4%AB.jpg)
 
 一加3T拍摄，如此高清。赞！一加3T不愧为安卓性价比之王！然而一加CEO	刘作虎不做广告宣传单纯靠用户口碑相传导致很多人都没有听说过这个手机品牌。
 
-![深圳宝安机场-拿铁咖啡：19￥](http://oe3vwrk94.bkt.clouddn.com/%E6%B7%B1%E5%9C%B3%E5%AE%9D%E5%AE%89%E6%9C%BA%E5%9C%BA-%E6%B1%89%E5%A0%A1%E7%8E%8B.jpg)
+![深圳宝安机场-拿铁咖啡：19￥](/img/%E6%B7%B1%E5%9C%B3%E5%AE%9D%E5%AE%89%E6%9C%BA%E5%9C%BA-%E6%B1%89%E5%A0%A1%E7%8E%8B.jpg)
 
 老实说，我是路痴。一个真正的路痴去到一个陌生的地方需要完全凭借地图导航的帮助。所以我要感谢互联网的时代哈哈哈！！！！让说走就走的旅行变得So Easy!
 

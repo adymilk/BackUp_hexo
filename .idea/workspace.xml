@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cbfe90d3-b6e1-4468-936d-f4e0a99418b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/20200101-1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_redirects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/20160624-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/20180515-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/20180515-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/20180527-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/20180530-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/20180601-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/20180602-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/20180604-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/20180630.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/20180720-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/20180729-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/20180730-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/20180802-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/20181126-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/20191116-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/20191117-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/20191117-2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/alipay.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/wechatPay.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/404.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/404.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_data/footer_link.yml" beforeDir="false" afterPath="$PROJECT_DIR$/source/_data/footer_link.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/2017-08-04-Install-Beautiful-Ubuntu.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2017-08-04-Install-Beautiful-Ubuntu.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/2017-08-04-git-guide.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2017-08-04-git-guide.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/2017-10-06-AndroidStudioMultichannelpacking.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2017-10-06-AndroidStudioMultichannelpacking.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/2017-11-18-学会跟自己相处.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2017-11-18-学会跟自己相处.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/2017-12-19-修复Ubuntu系统引导丢失问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2017-12-19-修复Ubuntu系统引导丢失问题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/20180512.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/20180512.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/20180518-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/20180518-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/20180518-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/20180518-2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/20180518-3.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/20180518-3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/20180527-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/20180527-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/20180601-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/20180601-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/20180602-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/20180602-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/20180603-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/20180603-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/20180624-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/20180624-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/20180630-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/20180630-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/20180720-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/20180720-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/20180729-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/20180729-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/20180730-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/20180730-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/3分钟轻松学会编译安卓-APK.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/3分钟轻松学会编译安卓-APK.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Instagram_Youtube_google.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Instagram_Youtube_google.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/JetBrains系列产品破解教程.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/JetBrains系列产品破解教程.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Linux 暴力破解WIFI密码.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Linux 暴力破解WIFI密码.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Linux系统好玩的命令.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Linux系统好玩的命令.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/ShenZhenVideo.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/ShenZhenVideo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/hexo部署失败解决方案.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/hexo部署失败解决方案.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/nodejs_pachong.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/nodejs_pachong.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/so-powerful-mobile-silde-framwork-swiper.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/so-powerful-mobile-silde-framwork-swiper.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/unstall-your-sublime-instead-of-atom.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/unstall-your-sublime-instead-of-atom.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/win-10更改用户名及取消开机密码.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/win-10更改用户名及取消开机密码.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/他们是香港第一代偶像巨星-却全都英年早逝.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/他们是香港第一代偶像巨星-却全都英年早逝.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/健身可是有大学问呢.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/健身可是有大学问呢.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/免费搭建自己的博客网站.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/免费搭建自己的博客网站.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/再见我的2017.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/再见我的2017.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/原来李小龙之死是必然的？.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/原来李小龙之死是必然的？.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/听说一周不用微信人会疯掉？.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/听说一周不用微信人会疯掉？.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/在Ubuntu系统中安装hexo以及相关配置-记录贴-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/在Ubuntu系统中安装hexo以及相关配置-记录贴-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/我就是我，不一样的烟火.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/我就是我，不一样的烟火.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/我有一个看海的愿望.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/我有一个看海的愿望.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/手抄@鬼脚七深度好文.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/手抄@鬼脚七深度好文.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/摘录-鬼脚七-旅游-思考-独处-忙碌.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/摘录-鬼脚七-旅游-思考-独处-忙碌.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/明明是一个人，偏要像机器一样活着.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/明明是一个人，偏要像机器一样活着.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/没长毛的爱情.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/没长毛的爱情.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/about/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/music/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/photograph/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/photograph/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/source/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/works/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/works/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hexo-theme-Cards/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-Cards/README.md" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/20190330-1.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor>
+                <caret selection-end-line="7" selection-end-column="3" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/20200101-1.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="168">
+                <caret line="6" column="117" selection-start-line="6" selection-start-column="117" selection-end-line="6" selection-end-column="117" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/20181126.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="271">
+                <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/20180802-1.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="84">
+                <caret line="3" selection-start-line="3" selection-end-line="6" selection-end-column="16" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="251" column="8" selection-start-line="251" selection-start-column="8" selection-end-line="251" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/hexo-theme-Cards/README-cn.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="-14" />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/photograph/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="396">
+                <caret line="15" selection-start-line="15" selection-end-line="15" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/works/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/20180729-1.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="756">
+                <caret line="27" column="61" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="61" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>http://oe3vwrk94.bkt.clouddn.com/</find>
+      <find>赏</find>
+      <find>http://oe3vwrk94.bkt.clouddn.com</find>
+      <find>统计</find>
+      <find>pv</find>
+      <find>about</find>
+      <find>http://img.0551shengteng.cn</find>
+      <find>img/</find>
+      <find>innerHTML</find>
+      <find>alipay</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>http://img.0551shengteng.cn</replace>
+      <replace>img</replace>
+      <replace>/img/</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/source</dir>
+      <dir>$PROJECT_DIR$/themes</dir>
+      <dir>$PROJECT_DIR$/source/_posts</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/source/_posts/20180518-3.md" />
+        <option value="$PROJECT_DIR$/source/photograph/index.md" />
+        <option value="$PROJECT_DIR$/source/robots.txt" />
+        <option value="$PROJECT_DIR$/themes/hexo-theme-Cards/layout/_partial/works/main.swig" />
+        <option value="$PROJECT_DIR$/source/_posts/20181126.md" />
+        <option value="$PROJECT_DIR$/source/_posts/20180527-1.md" />
+        <option value="$PROJECT_DIR$/source/_posts/nodejs_pachong.md" />
+        <option value="$PROJECT_DIR$/source/404.md" />
+        <option value="$PROJECT_DIR$/source/_posts/20180603-1.md" />
+        <option value="$PROJECT_DIR$/themes/hexo-theme-Cards/layout/pay.swig" />
+        <option value="$PROJECT_DIR$/source/_posts/20191116-1.md" />
+        <option value="$PROJECT_DIR$/source/_posts/20200101-1.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1600" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="blog_backup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog_backup" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog_backup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog_backup" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog_backup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog_backup" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/img" />
+      <recent name="$PROJECT_DIR$/themes/hexo-theme-Cards/layout" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbfe90d3-b6e1-4468-936d-f4e0a99418b3" name="Default Changelist" comment="" />
+      <created>1540133367189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540133367189</updated>
+      <workItem from="1540133373376" duration="294000" />
+      <workItem from="1542441124355" duration="90000" />
+      <workItem from="1542441428196" duration="249000" />
+      <workItem from="1543116843030" duration="392000" />
+      <workItem from="1543234417241" duration="1233000" />
+      <workItem from="1543236751898" duration="1458000" />
+      <workItem from="1543238511633" duration="1758000" />
+      <workItem from="1543240525205" duration="3372000" />
+      <workItem from="1553994457327" duration="2889000" />
+      <workItem from="1553998312816" duration="1401000" />
+      <workItem from="1554000278680" duration="102000" />
+      <workItem from="1573900666206" duration="16243000" />
+      <workItem from="1577857888385" duration="1251000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="30732000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1600" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17973231" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3298969" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.60227275" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/source/_posts/20180518-3.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="261">
+            <caret line="10" column="34" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="34" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/20180730-1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor>
+            <caret selection-end-line="10" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scaffolds/page.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scaffolds/post.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-Cards/layout/_partial/common/footer.swig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2071">
+          <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_data/footer_link.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-267" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_data/contact.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-Cards/layout/photograph.swig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-Cards/layout/about.swig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-Cards/layout/works.swig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-Cards/layout/_partial/photograph/main.swig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_every_day/20180515-task.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_every_day/20180518.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_every_day/20180520.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_every_day/20180530.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task_every_day/20180603.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/3分钟轻松学会编译安卓-APK.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="252">
+            <caret line="9" selection-start-line="9" selection-end-line="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_redirects">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/quotes.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-Cards/layout/music.swig" />
+    <entry file="file://$PROJECT_DIR$/source/music/index.md" />
+    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-Cards/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-423" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/2016-12-01.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-153" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-Cards/layout/_partial/works/main.swig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="13" column="140" selection-start-line="13" selection-start-column="140" selection-end-line="13" selection-end-column="140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/robots.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/20180527-1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="139">
+            <caret line="11" column="12" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/没长毛的爱情.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-50">
+            <caret line="3" selection-start-line="3" selection-end-line="12" selection-end-column="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/20180512.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="241">
+            <caret line="12" column="26" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/nodejs_pachong.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="252">
+            <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/404.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor>
+            <caret column="1" selection-start-column="1" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/20180603-1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="509">
+            <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-Cards/_config.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/img/wechatPay.png" />
+    <entry file="file://$PROJECT_DIR$/source/img/alipay.jpeg" />
+    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-Cards/layout/pay.swig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/pay/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-Cards/layout/_partial/post/content.swig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-Cards/layout/_partial/post/main.swig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="14" column="70" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
+          <folding>
+            <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#main#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/20180729-1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="756">
+            <caret line="27" column="61" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="61" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/20191116-1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="630">
+            <caret line="30" column="124" selection-start-line="30" selection-start-column="124" selection-end-line="30" selection-end-column="124" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/20181126.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="271">
+            <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/20180802-1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="84">
+            <caret line="3" selection-start-line="3" selection-end-line="6" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/20190330-1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor>
+            <caret selection-end-line="7" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/20200101-1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="168">
+            <caret line="6" column="117" selection-start-line="6" selection-start-column="117" selection-end-line="6" selection-end-column="117" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/photograph/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="396">
+            <caret line="15" selection-start-line="15" selection-end-line="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/works/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="251" column="8" selection-start-line="251" selection-start-column="8" selection-end-line="251" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-Cards/README-cn.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-14" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

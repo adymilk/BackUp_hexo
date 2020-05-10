@@ -5,7 +5,7 @@ tags: JetBrains
 categories: 代码笔记
 author:
 	ncik: 王恒
-cover: http://oe3vwrk94.bkt.clouddn.com/20180529-2.png
+cover: /img/20180529-2.png
 ---
 
 JetBrains系列的IDE都非常棒，支持多种插件和主题。深受广大程序员的喜爱。可能有人会说他喜欢用Sublime Text，是因为它的轻便和支持永久试用(相当于免费比如我之前)。

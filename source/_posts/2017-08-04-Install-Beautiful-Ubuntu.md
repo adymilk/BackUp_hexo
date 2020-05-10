@@ -6,7 +6,7 @@ tags:
 - 开源
 categories: 代码笔记
 
-cover: http://oe3vwrk94.bkt.clouddn.com/ubuntu-desktop.png
+cover: /img/ubuntu-desktop.png
 
 author:
 	nick: 王恒
@@ -41,7 +41,7 @@ Ubuntu Kylin 是专门为中国市场打造的免费桌面操作系统。它包�
 在用 Windows 的时候。基本日常操作是通过GUI鼠标点击来完成的。然而自从接触到 Ubuntu （ Linux 系统 ），我已经忘记了使用鼠标的习惯。在 （ Linux ）Ubuntu 系统中，绝大多数操作是通过打开一个叫做终端的应用程序窗口，然后输入命令来完成的！比如我要启动 QQ ，我只需要通过快捷键 `Ctrl+Alt+T` 打开终端，然后输入一个 `Q` 再按一下 `Tab` 键 系统就可以帮我自动补全。这就是 Linux 相比较 Windows 简单高效的优势。有些同学可能疑惑了，相比较 Windows 可能还是鼠标点击一下桌面上的应用程序快捷方式更方便点。你别较真嘛，没听说过，太认真你就输了吗？哈哈哈～ 这只是给大家先简单的举个例子，后面我会说如何给应用程序创建桌面快捷方式。
 
 
-![ ubuntu 桌面 QQ 截图](http://oe3vwrk94.bkt.clouddn.com/ubuntu-desktop-qq.png)
+![ ubuntu 桌面 QQ 截图](/img/ubuntu-desktop-qq.png)
 
 ### 系统的安装
 
