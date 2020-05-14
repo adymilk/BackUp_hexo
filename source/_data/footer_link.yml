@@ -19,13 +19,9 @@ friend_links:
     desc: 淘宝技术团队
     link: http://taobaofed.org/
 
-  - name: Dinphy - 简乐 
-    desc: Dinphy - 简乐 | 生活不易,快乐就好
-    link: http://www.dinphy.wang/
-
-  - name: 咬定面包不放松 
-    desc: 咬定面包不放松
-    link: https://blog.nash-su.cn/
+  - name: 程序员在旅途 
+    desc: IT 之旅
+    link: https://meijindong.top  
     
 build_tools:
   - name: Hexo

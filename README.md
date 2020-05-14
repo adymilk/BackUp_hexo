@@ -1,6 +1,6 @@
 ## this is my blog backup project
 
-your can [click here](https://blog.adymilk.cn) to visit my blog website onLine.
+your can [click here](http://adymilk.github.io) to visit my blog website onLine.
 
 ## How To Use?
 
