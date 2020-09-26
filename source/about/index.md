@@ -5,7 +5,7 @@ type: about
 layout: about
 ---
 
-> 成功与失败都是成功者的说辞。JUST DO IT.
+> 热爱编程，热爱生活。干就完了！.
 点击查看我的 [在线简历]()
 
 # Hello World!
